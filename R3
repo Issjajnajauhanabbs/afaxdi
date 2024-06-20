@@ -1,15 +1,13 @@
-Mozilla/5.0 (Linux; Android 9; U3H Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.105 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/384.0.0.18.104;]
-Mozilla/5.0 (Linux; Android 12; SM-M536S Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/384.0.0.18.104;]
-Mozilla/5.0 (Linux; Android 8.1.0; LAVA LE9810 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/236.0.0.14.120;]
-Mozilla/5.0 (Linux; Android 14; V2239 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.120 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/405.0.0.16.112;]
-Mozilla/5.0 (Linux; Android 14; V2225 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/416.0.0.9.76;]
-Mozilla/5.0 (Linux; Android 13; LAVA LXX503 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/410.0.0.17.85;]
-Mozilla/5.0 (Linux; Android 13; itel P661N Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.99 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/403.1.0.17.106;]
-Mozilla/5.0 (Linux; Android 11; CPH1927 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4692.98 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/351.1.0.12.129;]
-Mozilla/5.0 (Linux; Android 11; RAVOZ Z3 Lite Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.64 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/378.0.0.25.106;]
-Mozilla/5.0 (Linux; Android 11; G310 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.143 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/414.0.0.17.61;]
-Mozilla/5.0 (Linux; Android 11; RAVOZ Z3 Lite Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.164 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/378.0.0.25.106;]
-Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-J326AZ Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.5359.128 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/390.2.0.29.103;]
-Mozilla/5.0 (Linux; Android 11; AE9950 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/394.0.0.15.72;]
-Mozilla/5.0 (Linux; Android 10; Symphony Atom ii Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.193 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/402.0.0.11.101;]
-Mozilla/5.0 (Linux; Android 11; K9 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/396.0.0.14.82;]
+Symphony Z32
+S21 Plus 2021_EEA
+Q3_EEA
+Origin_679
+RCT6T06E13
+LS-5503
+2312BPC51H
+MP07
+itel P683L
+A181_
+N6001
+A100
+V10
